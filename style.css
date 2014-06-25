@@ -9,7 +9,7 @@ nav{
 	top:0;
 	width: 100%;
 	right: 0;
-
+	font-size: 150%;
 	background-color: rgba(255, 255, 255, 0.39);
 
 }
@@ -19,9 +19,9 @@ nav{
 	height:600px;
 }
 #me{
-	max-height: 70%;
+	height: 400px;
 	margin-left: 10%;
-	margin-top: 10%;
+	margin-top:10%;
 	
 }
 h1{
@@ -29,22 +29,34 @@ h1{
 	margin-right: 20%;
 	margin-top:20%;
 }
-
+h4{
+	text-align: center;
+}
 #section2{
-	background-color: #5986F0;
-	width: 100%;
-	height:600px;
+
+	background-image: url("blur.jpg");
+	background-size: 100%, 700px;
+	height: 700px;
+	
 }
 .title{
 	text-align: center;
 	font-size: 200%;
 	padding-top: 8%;
 	margin-bottom: 5%;
+	color: white;
+	
 }
 p{
 	width: 80%;
 	margin-right:auto;
 	margin-left: auto;
+	background-color: rgba(247,245,240, .5);
+
+}
+#section2 h4{
+	color:white;
+	margin-top: 100px;
 }
 #section3{
 	background-color: #7759F0;
