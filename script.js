@@ -1,4 +1,6 @@
 $(document).ready( function() {
+
+    
 	var hashTagActive = "";
 	$(".scroll").click(function(event){
          event.preventDefault();
