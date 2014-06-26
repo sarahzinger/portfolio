@@ -20,8 +20,11 @@ nav{
 }
 #me{
 	height: 400px;
-	margin-left: 10%;
-	margin-top:10%;
+	margin-left: 2%;
+	margin-top:2%;
+	max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 	
 }
 h1{
@@ -50,7 +53,7 @@ h4{
 	margin-bottom: 5%;
 	color: white;
 	font-family: 'Raleway', sans-serif;
-	
+
 	
 }
 p{
